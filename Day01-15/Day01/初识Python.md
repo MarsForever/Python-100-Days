@@ -222,24 +222,43 @@ PyCharm的安装、配置和使用我们在后面会进行介绍。
     import this
     
     Beautiful is better than ugly.
+    美比丑更好
     Explicit is better than implicit.
+    清晰比含蓄更好
     Simple is better than complex.
+    简单比复杂更好
     Complex is better than complicated.
+    复合比复杂更好
     Flat is better than nested.
+    扁平胜于嵌套
     Sparse is better than dense.
+    稀疏胜于密集
     Readability counts.
+    可读性很重要
     Special cases aren't special enough to break the rules.
+    特殊情况也不能够破坏这些规则
     Although practicality beats purity.
+    虽然实用性胜过纯粹
     Errors should never pass silently.
+    错误不应该被默认通过
     Unless explicitly silenced.
+    除非明确无声
     In the face of ambiguity, refuse the temptation to guess.
+    在遇到模凌两可时，拒绝猜测
     There should be one-- and preferably only one --obvious way to do it.
+    应该只有一种--最好只有一种--明显的方式去做
     Although that way may not be obvious at first unless you're Dutch.
+    除非你是python之父，不然这并不明显
     Now is better than never.
+    现在胜于不做
     Although never is often better than *right* now.
+    虽然不做常常胜于不假思索做
     If the implementation is hard to explain, it's a bad idea.
+    如果执行是难以解释的，那么这是一个坏主意
     If the implementation is easy to explain, it may be a good idea.
+    如果执行容易解释，这可能是一个好主意
     Namespaces are one honking great idea -- let's do more of those!
+    命名空间是一个绝佳的好主意--让我们多多利用
     ```
 
 2. 学习使用turtle在屏幕上绘制图形。
